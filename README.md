@@ -14,5 +14,5 @@
 
 ### 📫 How to Reach Me
 
-- **Email:** [alishermamirov452@gmail.com]
-- **Telegram:** [t.me/AlisherMamirov]
+- **Email:** [alishermamirov](alishermamirov452@gmail.com)
+- **Telegram:** [t.me/AlisherMamirov](t.me/AlisherMamirov)
