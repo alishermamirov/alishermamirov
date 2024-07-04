@@ -4,7 +4,7 @@
 
 🔥I'm a student and I love programming
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alishermamirov&label=Profile%20views&color=0e75b6&style=flat" alt="alishermamirov" /> </p>
+
 
 ### 🚀 Languages, Frameworks/Libraries and tools  I work with:
 
