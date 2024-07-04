@@ -11,3 +11,8 @@
 <code><img src="https://toppng.com/uploads/preview/dart-logo-11609359002t083vzxxh2.png" width="30px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkkRnmkxL9tImboeKZBaiPvjRiZNqy_Ao8IiGBc9Th3ecJ9P2k2gp_tYkOdao4yicFc2g&usqp=CAU" width="30px"></code>
 <br />
+
+### 📫 How to Reach Me
+
+- **Email:** [alishermamirov452@gmail.com]
+- **Telegram:** [t.me/AlisherMamirov]
