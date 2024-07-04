@@ -6,7 +6,7 @@
 
 ### 🚀 Languages, Frameworks/Libraries and tools  I work with:
 
-<code><img src="https://w7.pngwing.com/pngs/67/315/png-transparent-flutter-hd-logo-thumbnail.png" width="30px"></code>
+<code><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/flutter-2752187-2285004.png" width="30px"></code>
 <code><img src="https://batflat.org/themes/default/img/css-logo.png" width="20px"></code>
 <code><img src="https://www.nicepng.com/png/full/377-3771906_sass-sass-sass-sass-logo-white-png.png" width="30px"></code>
 <code><img src="https://icon-library.com/images/b-icon/b-icon-0.jpg" width="30px"></code>
