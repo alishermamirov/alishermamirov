@@ -1,1 +1,1 @@
-## Hi, I'm Alisher Mamirov <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWN5cXhneno3ZjNmemxwNTltcWtrNzJuMWh5NzZwcnA2enFvemg0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.webp" width="30px">
+## Hi, I'm Alisher Mamirov <img src="https://media.giphy.com/media/hvRJCLFcasrR4ia7z/giphy.gif" width="30px">
