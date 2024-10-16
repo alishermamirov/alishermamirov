@@ -2,7 +2,7 @@
 
 ### 👤About Me
 
-🔥I'm a student and I love programming
+🔥I'm a student
 <br />
 
 
